@@ -1,0 +1,4 @@
+description: Runs a SQL query against a sqlite database in turso
+args: query: SQL statement to execute
+
+#!/usr/bin/env node ${GPTSCRIPT_TOOL_DIR}/tool.js

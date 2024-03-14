@@ -1,0 +1,6 @@
+tools: ../tool.gpt
+
+Do the following step by step
+
+1. Look up the database schema
+2. Add a user shannon to the database email shannon@acorn.io with the twitter handle @smw355. If necessary modify the schema.

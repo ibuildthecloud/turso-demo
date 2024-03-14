@@ -1,0 +1,6 @@
+tools: ../tool.gpt
+
+Do the following step by step
+
+1. First lookup the database schema.
+2. Add a user named Darren to the database with the email darren@acorn.io
